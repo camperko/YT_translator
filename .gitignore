@@ -131,3 +131,4 @@ dmypy.json
 /Scripts
 /.idea
 pyvenv.cfg
+deepl_api.txt
