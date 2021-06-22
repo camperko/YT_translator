@@ -132,3 +132,4 @@ dmypy.json
 /.idea
 pyvenv.cfg
 deepl_api.txt
+.vscode/
